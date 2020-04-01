@@ -1,0 +1,30 @@
+.row-item {
+	color:black;
+	font-size: 20px;
+	text-align: center;
+	height: 90px;
+
+}
+.row-item td {
+	background-color: white;
+	column-width: 200px;
+	border: 2px solid black;
+	padding: 10px;
+}
+.table-item {
+	border: 2px solid black;
+}
+.list-bar {
+	background-color: black;
+}
+li {
+	color: white;
+}
+
+.navlink-item {
+	color: white;
+	font-size: 15px;
+}
+.navlink-item:active {
+	color: yellow;
+}
